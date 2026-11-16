@@ -25,7 +25,7 @@ Next session starts with: Block 0 placement gate (cold, blank file)
 ## Block 0 topic gates (tick with evidence)
 | Topic | Target | Status |
 |---|---|---|
-| Types, strings, lists, dicts, sets, tuples | L3 | taught · gate pending |
+| Types, strings, lists, dicts, sets, tuples | L3 | types ✅ L2 gate 2026-11-16 (str/int/float/bool, conversion direction, / vs //) · strings, lists, dicts, sets, tuples next |
 | Control flow, comprehensions, generators | L3 | loops taught · comprehensions/generators todo |
 | Functions, args/kwargs, scope, closures, decorators | L3 | functions/scope taught · rest todo |
 | Files, `pathlib`, `json`, `csv`, `datetime` | L3 | JSON taught · rest todo |
