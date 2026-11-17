@@ -27,7 +27,7 @@ Next session starts with: Block 0 placement gate (cold, blank file)
 |---|---|---|
 | Types, strings, lists, dicts, sets, tuples | L3 | types ✅ L2 gate 2026-11-16 (str/int/float/bool, conversion direction, / vs //) · lists & dicts ✅ L2 gate 2026-11-16 (indexing, -1/len-1, append, add/replace key, IndexError vs KeyError, nested response["choices"][0]["message"]["content"]) · sets, tuples, string methods next |
 | Control flow, comprehensions, generators | L3 | for/if/elif/else, nested if, counters, indentation ✅ L2 gate 2026-11-17 · list comprehensions (expr/loop/filter, and, len) ✅ L2 gate 2026-11-17 · generators todo |
-| Functions, args/kwargs, scope, closures, decorators | L3 | functions/scope taught · rest todo |
+| Functions, args/kwargs, scope, closures, decorators | L3 | functions: def, parameter vs argument, return vs print, None, scope ✅ L2 gate 2026-11-17 · args/kwargs, closures, decorators todo |
 | Files, `pathlib`, `json`, `csv`, `datetime` | L3 | JSON taught · rest todo |
 | Exceptions: raise, catch, custom errors | L3 | try/except taught · custom todo |
 | Modules, packages, `venv`, pip, `pyproject.toml` | L3 | imports taught · rest todo |
