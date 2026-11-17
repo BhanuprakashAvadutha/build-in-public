@@ -1,16 +1,16 @@
 # progress.md
 Learner: Bhanu · engineering-Python comfort ?/5 · 4–5 h/day × 6 days
 Blocks: 0 🟨 P 🟨 1 ⬜ 2 ⬜ 3 🟨 4 🟨 5 ⬜ 6 ⬜ 7 ⬜ 8 ⬜ 9 ⬜ 10 ⬜   (⬜ not started · 🟨 partly covered · ✅ gate passed)
-Current: Block 0 · day 1 · placement gate · depth target L3
-Artefacts: <build-in-public repo URL once pushed>
+Current: Block 0 · day 4 done (types, lists/dicts, loops, comprehensions, functions) · next day 5 files/pathlib/json
+Artefacts: https://github.com/BhanuprakashAvadutha/build-in-public
 Blocked on: —
-Next session starts with: Block 0 placement gate (cold, blank file)
+Next session starts with: Day 5 files, pathlib, json
 
 ## Block status
 | Block | Status | Depth reached | Evidence | Artefact | Date |
 |---|---|---|---|---|---|
 | 0 Python for engineering | in progress (placement) | core taught Aug 2026, gate pending | — | 4 CLIs → package → deployed URL | — |
-| P Publishing spine | started | — | repo scaffolded 2026-11-16 | `build-in-public` | — |
+| P Publishing spine | started | — | repo scaffolded 2026-11-16, pushed to GitHub 2026-11-17 | `build-in-public` | — |
 | 1 Working software | partly covered (Git) | Git conflicts done Aug 2026 | — | tested, containerised repo, green CI | — |
 | 2 LLM apps + tool calling | not started | 1 API call | — | Project 1 live | target 15 Dec – 4 Jan |
 | 3 ML literacy | content covered | L2 mostly; P/R Guided | fraud_detection_pipeline (Aug 31) | metric report + pushed repo | — |
