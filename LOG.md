@@ -1,6 +1,7 @@
 # LOG
 One line per day, newest first: `date · block · what I built · what broke · commit`
 
+- 2026-11-20 · Block 0 · reviews (spaced repetition) + tuples, sets, set comps, string methods (row 1 L2; rows 1–3 all L2) · broke: replace("TOOL: ") kept ': '; initials joined before splitting · <hash>
 - 2026-11-19 · Block 0 · while, break/continue, range, enumerate, zip, dict comps, generators (row 2 L2) · broke: range step read as multiples (1,10,3); generator first written without a parameter · d2e7a4e
 - 2026-11-18 · Block 0 · defaults, keyword args, *args, **kwargs, scope, closures, decorators (row 3 L2) · broke: count = count + 1 inside a function → UnboundLocalError · 1aecfcb
 - 2026-11-17 · Block 0 · functions: def, return vs print, None, scope, label() + count_apply() · broke: price(a) used outer `job` not its parameter; tool_names() called itself → RecursionError · ac64282
